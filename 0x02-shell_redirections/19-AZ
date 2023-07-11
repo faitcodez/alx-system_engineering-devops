@@ -1,2 +1,2 @@
 #!/bin/bash
-tr "A" "c" < filename | tr "Z" "e"
+tr "Ac" "Ze"
