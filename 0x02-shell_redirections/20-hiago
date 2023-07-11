@@ -1,0 +1,2 @@
+#!/bin/bash
+tr -d 'c[a-zA-Z]' < input_file > output_file
